@@ -1,5 +1,5 @@
 # Circuit Simulator
-Implementation of a circuit simulator using Modified Nodal Analysis Algorithm on MATLAB. The program reads a text input file representing the circuit and determines the node voltages using the algorithm Modified Node Analysis.
+The program implements circuit simulator using Modified Nodal Analysis Algorithm. It reads a text input file representing the circuit and determines the node voltages using the algorithm Modified Node Analysis.
 
 ## Overview
 The simulator is capable of simulating any circuit with the following circuit elements:
