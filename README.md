@@ -62,6 +62,4 @@ NODE 13 V:-973.000000
 ```
 ### Built With
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
-
-### Acknowledgements
-This program is a Boğaziçi University EE241 course project.  
+ 
